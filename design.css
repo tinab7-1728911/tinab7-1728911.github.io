@@ -1,0 +1,16 @@
+body {
+    background: pink;
+    font-family: monospace;
+}
+
+h1, h2, p, li {
+    color:#493232;
+}
+
+a {
+    color:#860A33;
+}
+p {
+    background:#CEFFCE;
+    padding:10px;
+}
