@@ -1,0 +1,53 @@
+#Header{
+    width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align:center;
+}
+#LeftNav{
+    border: solid 8px black;
+    float:left;
+    width:20%;
+    text-align:center;
+    padding-bottom: 8px;
+}
+#Content{
+    border: solid 8px black;
+    width: 700px;
+    margin-right:auto;
+    margin-left:auto;
+    text-align:center;
+    padding: 15px;
+}
+#Footer{
+    border: solid 8px black;
+    text-align:center;
+}
+img{
+    max-width:75%;
+    height:auto;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+header, h1{
+    font size: 60px;
+    font-family: "Passion One";
+    color:#FFBC00;
+    font-weight: bold;
+}
+p{
+    color:white;
+    font-weight:bold;
+}
+body{
+    background:#8e41d5;
+}
+a{
+    color:white;
+    font-weight: bold; 
+    font-size: 24px
+}
