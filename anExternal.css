@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    background:#D1FFD1;
+}
+header {
+    background: #FFBEA7;
+    color: white;
+    padding:5px 0px 3px 45px;
+
+}
+
+header h1{
+    margin:0;
+    display: inline;
+}
+
+nav ul{
+    margin:0;
+    display: inline;
+}
+
+nav ul li{
+    background: #D1FFD1;
+    display: inline-block;
+    list-style-type: none;
+    margin: 6px;
+    padding: 3px 6px;
+}
+
+nav ul li a{
+    color:grey;
+}
+
+.row:after{
+    clear:both;
+    content:" ";
+    display:table;
+}
+
+.col{
+    background:white;
+    border-radius: 5px;
+    color: grey;
+    padding: 10px .5%;
+    float: left;
+    margin: 2%;
+    width:28%;
+}
