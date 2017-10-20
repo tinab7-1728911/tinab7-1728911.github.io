@@ -1,35 +1,22 @@
 body{
     margin:0;
-    background:#D1FFD1;
+    background:rgb(120, 104, 148);
 }
 header {
-    background: #FFBEA7;
-    color: white;
+    background: rgb(187, 215, 247);
+    color: rgb(73, 73, 73);
     padding:5px 0px 3px 45px;
 
 }
 
 header h1{
+    border-radius:100px;
+    background: rgb(235, 187, 206);
     margin:0;
     display: inline;
+    padding: 0px 50px;
 }
 
-nav ul{
-    margin:0;
-    display: inline;
-}
-
-nav ul li{
-    background: #D1FFD1;
-    display: inline-block;
-    list-style-type: none;
-    margin: 6px;
-    padding: 3px 6px;
-}
-
-nav ul li a{
-    color:grey;
-}
 
 .row:after{
     clear:both;
